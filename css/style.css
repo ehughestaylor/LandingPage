@@ -398,8 +398,7 @@ Portfolio Body
 /********************************
 MEDIA QUERIES
 *********************************/
-
-@media all and (max-width:500px) {
+/*@media all and (max-width:500px) {
   .port-btn a{
     display: inline-block;
     padding: 2.0rem;
@@ -480,6 +479,6 @@ MEDIA QUERIES
     height: 600px;
   }
 }
-}
+}*/
 
 
