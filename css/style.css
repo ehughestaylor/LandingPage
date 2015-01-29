@@ -398,7 +398,7 @@ Portfolio Body
 /********************************
 MEDIA QUERIES
 *********************************/
-
+/*
 @media only screen and (max-width:500px) {
   .port-btn a{
     display: inline-block;
@@ -481,5 +481,5 @@ MEDIA QUERIES
   }
 }
 }
-
+*/
 
