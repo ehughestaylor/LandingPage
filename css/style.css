@@ -398,7 +398,8 @@ Portfolio Body
 /********************************
 MEDIA QUERIES
 *********************************/
-/*@media all and (max-width:500px) {
+
+@media all and (max-width:500px) {
   .port-btn a{
     display: inline-block;
     padding: 2.0rem;
@@ -418,6 +419,7 @@ MEDIA QUERIES
   }
   .masthead-intro {
     font-size: 1.0em;
+    height: 100%;
   }
   .masthead-heading {
     font-size: 3.0em;
@@ -467,7 +469,7 @@ MEDIA QUERIES
     padding: 1em 0;
   }
 }
-@media all and (max-width:550px){
+@media alland (max-width:550px){
   .wrapper #navigation {
     padding: 1em 0;
     font-size: 0.7em;
@@ -479,6 +481,6 @@ MEDIA QUERIES
     height: 600px;
   }
 }
-}*/
+}
 
 
