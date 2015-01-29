@@ -398,8 +398,8 @@ Portfolio Body
 /********************************
 MEDIA QUERIES
 *********************************/
-/*
-@media only screen and (max-width:500px) {
+
+@media all and (max-width:500px) {
   .port-btn a{
     display: inline-block;
     padding: 2.0rem;
@@ -444,11 +444,11 @@ MEDIA QUERIES
     font-size: 
   }
 }
-@media only screen and (max-width:848px){
+@media all and (max-width:848px){
   .item {
     display: block;
   }
-@media only screen and (max-width:700px){
+@media all and (max-width:700px){
   .wrapper #navigation {
     font-size: 1.0em;
   }
@@ -462,13 +462,13 @@ MEDIA QUERIES
     font-size: 1.3em;
   }
 
-@media only screen and (max-width:770px){
+@media all and (max-width:770px){
     .wrapper #navigation {
     margin:0 auto;
     padding: 1em 0;
   }
 }
-@media only screen and (max-width:550px){
+@media all and (max-width:550px){
   .wrapper #navigation {
     padding: 1em 0;
     font-size: 0.7em;
@@ -481,5 +481,5 @@ MEDIA QUERIES
   }
 }
 }
-*/
+
 
